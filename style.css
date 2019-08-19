@@ -1,0 +1,230 @@
+/* .header-top {
+    width: 1280px;
+    height: 42px;
+    background-color: #293449;
+} */
+
+a {
+    text-decoration: none;
+}
+
+.basket-link {
+    color: #ffffff;
+    font-family: Cuprum;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 18px;
+}
+
+.header-title {
+    color: #ee3643;
+    font-family: Cuprum;
+    font-size: 16px;
+    font-style: italic;
+    line-height: 23px;
+}
+
+.phone {
+    color: #ee3643;
+    font-family: Cuprum;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 21px;
+}
+
+.header-address {
+    color: #32425c;
+    font-family: Cuprum;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+/* иконка войти?? */
+/* .user-menu-image {
+    opacity: 0.3;
+    background-color: #c3cbd2;
+} */
+
+.user-menu-link {
+    color: #000000;
+    font-family: Cuprum;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 21px;
+}
+
+.menu-link {
+    color: #ffffff;
+    font-family: Cuprum;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 17px;
+}
+
+.popular-title {
+    color: #32425c;
+    font-family: Cuprum;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 30px;
+    text-transform: uppercase;
+}
+
+.button {
+    color: #ffffff;
+    font-family: Cuprum;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    text-transform: uppercase;
+}
+
+.popular-item .catalog-item {
+    width: 220px;
+    height: 318px;
+    border: 1px solid #eaeaea;
+    background-color: #ffffff;
+}
+
+.popular-category .popular-item-name .catalog-item-price-new .catalog-item-name {
+    color: #000000;
+    font-family: "PT Sans";
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 20px;
+}
+
+.popular-item-price-old .catalog-item-price-old {
+    color: #a9a9a9;
+    font-family: "PT Sans";
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 18px;
+    text-decoration: line-through;
+    text-transform: uppercase;
+}
+
+.popular-item-price-new .catalog-item-price-new {
+    color: #ffffff;
+    font-family: "PT Sans";
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 18px;
+    text-transform: uppercase;
+}
+
+.button {
+    width: 253px;
+    height: 38px;
+    background-color: #ee3643;
+}
+
+.manufacturer-item {
+    width: 220px;
+    height: 145px;
+    border: 1px solid #eaeaea;
+    background-color: #ffffff;
+}
+
+.about-title {
+    font-family: Cuprum-Regular;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 30px;
+    text-transform: uppercase;
+}
+
+.about-text {
+    font-family: "PT Sans";
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.about-item {
+    font-family: Cuprum;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.footer-contacts {
+    color: #f3f7f9;
+    font-family: Cuprum;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.menu-top-link {
+    color: #f1f5f7;
+    font-family: Cuprum;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.menu-bottom-link {
+    color: #ffd180;
+    font-family: Cuprum;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.copyright {
+    color: #ffffff;
+    font-family: Cuprum;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18px;
+}
+
+.footer-about-item {
+    color: #ffffff;
+    font-family: Cuprum;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18px;
+}
+
+.about-link {
+    font-family: Cuprum;
+    font-size: 16px;
+    line-height: 18px;
+    text-align: left;
+    color: #ffd180;
+}
+
+.breadcrumbs-link {
+    font-family: PTSans;
+    font-size: 13px;
+    line-height: 18px;
+    text-align: left;
+    color: #000000;
+}
+
+.catalog-title {
+    font-family: Cuprum;
+    font-size: 30px;
+    line-height: 30px;
+    text-align: left;
+    color: #32425c;
+}
+
+.form-title {
+    font-family: PTSans;
+    font-size: 17px;
+    font-weight: bold;
+    line-height: 30px;
+    text-align: left;
+    color: #000000;
+}
+
+.manufacturer-item .power-item {
+    font-family: PTSans;
+    font-size: 15px;
+    line-height: 20px;
+    text-align: left;
+    color: #000000;
+}
